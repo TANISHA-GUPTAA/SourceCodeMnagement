@@ -1,1 +1,1 @@
-# SourceCodeMnagement
+# SourceCodeManagement
